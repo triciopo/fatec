@@ -25,7 +25,7 @@ main:
 	add $t3, $t1, 0
 	
 loop:
-	bge $t0, 3, fim
+	bge $t0, 15, fim
 	# Exibir primeira msg
 	li $v0, 4
 	la $a0, msg
@@ -40,8 +40,8 @@ loop:
 	bgt $t1, $t3, maior
 	blt $t1, $t2, menor
 	
-	ble $t0, 3, loop
-	bgt $t0, 3, fim
+	ble $t0, 15, loop
+	bgt $t0, 15, fim
 	
 maior:
 	move $t3, $t1
