@@ -10,7 +10,7 @@
   - [Hipotenusa](Lista1/ex05.s)
   - [Soma e Multiplicação](Lista1/ex06.s)
   - [Par ou Impar](Lista1/ex07.s)
-  - [Positivo ou Negativo](Lista1s/ex08.s)
+  - [Positivo ou Negativo](Lista1/ex08.s)
   - [Divisão](Lista1/ex09.s)
   - [Unidade, centena e dezena](Lista1/ex10.s)
   - [Intervalo de números](Lista1/ex11.s)
